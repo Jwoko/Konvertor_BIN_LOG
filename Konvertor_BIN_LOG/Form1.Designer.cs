@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            //Test zda funguje git
             this.but_analyzuj = new System.Windows.Forms.Button();
             this.tbx_cesta = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
